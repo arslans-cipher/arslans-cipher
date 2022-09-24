@@ -26,12 +26,12 @@
 
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp; <img src="https://img.icons8.com/officel/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/redux.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/>
 ### Statistics 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslaninfinite&theme=gotham) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslaninfinite&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslans-cipher&theme=gotham) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslans-cipher&show_icons=true&theme=gotham)
 
 
 <!--
-**ArslanInfinite/ArslanInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arslans-cipher.arslans-cipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
