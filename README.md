@@ -2,7 +2,7 @@
 
 <h3 align='center'>Full Stack Software Developer </h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ArslanInfinite.ArslanInfinite)
+![](https://visitor-badge.laobi.icu/badge?page_id=arslans-cipher.arslans-cipher)
 [![Github](https://img.shields.io/github/followers/ArslanInfinite?label=Follow&style=social)](https://github.com/ArslanInfinite)
 
 ### Introduction
