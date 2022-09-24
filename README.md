@@ -3,7 +3,7 @@
 <h3 align='center'>Full Stack Software Developer </h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=arslans-cipher.arslans-cipher)
-[![Github](https://img.shields.io/github/followers/ArslanInfinite?label=Follow&style=social)](https://github.com/ArslanInfinite)
+[![Github](https://img.shields.io/github/followers/ArslanInfinite?label=Follow&style=social)](https://github.com/arslans-cipher)
 
 ### Introduction
 <ul align="left">
@@ -18,7 +18,7 @@
 
 <p align="left">
  <a href="mailto:ali.arslan319@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/></a>
- <a href="https://linkedin.com/in/arslaninc" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+ <a href="https://linkedin.com/in/arslannyc" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
  <a href="https://arslaninfinite.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
 </p>
 
